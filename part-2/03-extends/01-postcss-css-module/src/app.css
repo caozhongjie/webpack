@@ -1,0 +1,9 @@
+body{
+    background: red;
+    display: flex;
+    .box {
+        width: 100px;
+        height: 100px;
+        background: yellow;
+    }
+}

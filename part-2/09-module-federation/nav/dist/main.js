@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.createElement("div");e.appendChild((()=>{const e=document.createElement("h1");return e.textContent="公共头",e})()),document.body.appendChild(e)})();
